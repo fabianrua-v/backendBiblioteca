@@ -1,6 +1,0 @@
-projectKey=bib
-serverUrl=http://localhost:9000
-serverVersion=10.6.0.92116
-dashboardUrl=http://localhost:9000/dashboard?id=bib
-ceTaskId=9d9f6ca6-3a70-4078-8ad0-25088a13a89a
-ceTaskUrl=http://localhost:9000/api/ce/task?id=9d9f6ca6-3a70-4078-8ad0-25088a13a89a
